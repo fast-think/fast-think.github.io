@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fast Think
 
 You can use the [editor on GitHub](https://github.com/fast-think/fast-think.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
